@@ -30,7 +30,7 @@ if good_question >= 1:
 else:
     db_name = "postgres"
     user = "postgres"
-    password = "bezhan2009"
+    password = "bezhan20090"
     port = "5432"
     host = "127.0.0.1"
 
